@@ -1,0 +1,31 @@
+{
+  "intents": [
+    {
+      "intent": "FootIntent",
+      "slots": [
+        {
+          "name": "Food",
+          "type": "LIST_OF_FOOD"
+        }
+      ]
+    },
+    {
+      "intent": "FoodOnlyIntent",
+      "slots": [
+        {
+          "name": "Food",
+          "type": "LIST_OF_FOOD"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}

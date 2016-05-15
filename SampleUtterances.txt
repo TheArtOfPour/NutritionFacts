@@ -2,4 +2,5 @@ FoodIntent get me {Food}
 FoodIntent what is in {Food}
 FoodIntent how about {Food}
 FoodIntent {Food} please
+
 FootOnlyIntent {Food}

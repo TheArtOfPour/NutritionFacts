@@ -1,7 +1,7 @@
 {
   "intents": [
     {
-      "intent": "FootIntent",
+      "intent": "FoodIntent",
       "slots": [
         {
           "name": "Food",
